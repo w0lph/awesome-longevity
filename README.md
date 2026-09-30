@@ -66,3 +66,5 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
     - [Age Associated Cancer Genome](https://github.com/maglab/Age-associated_cancer_genome): Supplementary figures, supplementary tables, and custom scripts used for the following article: [An integrative analysis of the age-associated multi-omic landscape across cancers](https://www.nature.com/articles/s41467-021-22560-y).
 
 - [Open Wearables](https://github.com/the-momentum/open-wearables): Self-hosted platform to unify wearable data through one AI-ready API.
+
+- [Canine geroscience toolkit](https://github.com/w0lph/k9): Open data and agent tools for aging research in companion dogs: a versioned corpus of the canine aging literature, the FDA CVM FOI summaries for dog products as a dataset with quote-grounded pharmacokinetic and safety extractions, an MCP server (`dog-geroscience-mcp`) with dog-specific tools, and a grounded question set for evaluating models.
