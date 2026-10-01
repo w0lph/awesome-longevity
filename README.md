@@ -50,6 +50,8 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 
 - [Aging clock](https://github.com/mdozmorov/Aging_clock): Data and papers related to epigenetic clocks predicting age
 
+- [Awesome Canine Geroscience](https://github.com/w0lph/awesome-canine-geroscience): Curated list of dog aging and longevity research: cohorts, trials, drug programs, data, tools and papers
+
 - [mdozmorov/Aging](https://github.com/mdozmorov/Aging): Scripts and data files for the epigenomic enrichment analysis of age-associated differentially methylated regions, and genes changing their expression with age.
 
 - [Mouse Epigenetic Clock](https://github.com/EpigenomeClock/MouseEpigeneticClock): Using the code provided here you are able to predict the age of a mouse using methylation information at 329 CpG sites.
